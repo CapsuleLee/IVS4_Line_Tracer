@@ -4,6 +4,7 @@
 
 단순한 주행을 넘어, **상태 머신(State Machine)** 기반의 동작 제어와 **PWM(Pulse Width Modulation)**을 활용한 정밀 조향 알고리즘을 설계하고 검증했습니다.
 
+<!--
 ---
 
 ## 📺 Project Demonstration
@@ -16,6 +17,7 @@
 
 
 ---
+-->
 
 ## 🛠 Embedded System Architecture
 

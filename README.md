@@ -1,6 +1,6 @@
 # 🏎️ IR-Responsive Autonomous Line-Following System
 
-**적외선(IR) 원격 제어 인터페이스와 센서 피드백 루프를 결합한 임베디드 제어 시스템 구현 프로젝트입니다.**
+**적외선(IR) 원격 제어 인터페이스와 센서 피드백 루프를 결합한 임베디드 제어 시스템 구현 프로젝트**
 
 단순한 주행을 넘어, **상태 머신(State Machine)** 기반의 동작 제어와 **PWM(Pulse Width Modulation)**을 활용한 정밀 조향 알고리즘을 설계하고 검증했습니다.
 
@@ -12,9 +12,8 @@
 
 | 시스템 외관 (Photo) | 주행 시연 (Demo Video/GIF) |
 | :---: | :---: |
-| <img src="./images/project_photo.jpg" width="380"> | <img src="./images/demo_video.gif" width="380"> |
+| <img src="./images/Line_Tracer.jpg" width="380"> | <img src="./images/demo_video.gif" width="380"> |
 
-*Tip: 영상 파일(.mp4)을 깃허브 Issue 탭에 드래그하여 생성된 링크를 넣거나, GIF로 변환하여 업로드하면 가독성이 더욱 좋습니다.*
 
 ---
 
@@ -62,5 +61,3 @@
 
 ---
 
-## 👤 Author
-* **CapsuleLee** - [GitHub Profile](https://github.com/CapsuleLee)
